@@ -2,7 +2,7 @@
 
 An end-to-end supply chain analytics project combining two public datasets to tell one story: **forecast demand → replenish inventory → ship it → deliver on time** — measured end-to-end with a blended Perfect Order Rate KPI.
 
-**Live dashboard:** _[add your Streamlit Community Cloud link here once deployed]_
+**Live dashboard:** https://supply-chain-forecast-to-delivery-els8vwfdswogwh5xh8yfgc.streamlit.app/
 
 ## Data sources
 - [Retail Store Inventory Forecasting Dataset](https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset) (Kaggle) — 73,100 daily records, 5 stores x 20 products, Jan 2022–Jan 2024
