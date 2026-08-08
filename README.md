@@ -42,3 +42,4 @@ The two source datasets share no common key. The end-to-end "bridge" table pairs
 
 ## Author
 Swathi Munikoti
+ I used Claude as a development tool to help build it, while the analysis, sourcing logic, and interpretation are my own.
