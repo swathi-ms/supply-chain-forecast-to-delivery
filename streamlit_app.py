@@ -90,6 +90,10 @@ st.sidebar.caption(
     'Data: Retail Store Inventory Forecasting Dataset + Smart Logistics Supply Chain '
     'Dataset (Kaggle). Built by Swathi Munikoti.'
 )
+st.sidebar.caption( 
+    'I used Claude as a development tool to help build it, while the analysis, ' 
+    'sourcing logic, and interpretation are my own.' 
+)
 
 retail_f = retail[
     retail['Region'].isin(sel_regions) & retail['Category'].isin(sel_categories) &
